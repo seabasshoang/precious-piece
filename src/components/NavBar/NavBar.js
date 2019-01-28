@@ -6,9 +6,9 @@ const NavBar = () => {
         <div className="navBox">
             <div className="title">PRECIOUS PIECE</div>
             <div className="navItems">
-                <a className="navItem1" href="/">sunglasses</a>
-                <a className="navItem2" href="/">glasses</a>
-                <a className="navItem3" href="/">campaigns</a>
+                <a className="navItem1" href="/">Sunglasses</a>
+                <a className="navItem2" href="/">Glasses</a>
+                <a className="navItem3" href="/">Campaigns</a>
             </div>
         </div>
         
