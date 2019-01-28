@@ -25,3 +25,36 @@
     align-items: center;
 }
 
+.navItem1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: background-color 0.5s ease;
+}
+.navItem2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: background-color 0.5s ease;
+}
+.navItem3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: background-color 0.5s ease;
+}
+
+.navItem1:hover {
+    color: white;
+    background-color: black;
+}
+.navItem2:hover {
+    color: white;
+    background-color: black;
+}
+.navItem3:hover {
+    color: white;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
