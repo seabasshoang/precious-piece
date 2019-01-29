@@ -11,7 +11,7 @@
 
 .Item1 , .Item2 , .Item3 , .Item4{
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     background-image: url("https://images.pexels.com/photos/1781983/pexels-photo-1781983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") ;
 }
