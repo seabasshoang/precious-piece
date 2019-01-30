@@ -11,11 +11,11 @@ const Section2 = () => {
                     <br/>
                     <button>See More</button>
                 </div>
-                    <div className="image">
+                    <div className="image1">
                 </div>
             </div>
             <div className="sectionB">
-            <div className="image">
+            <div className="image2">
                 </div>
                 <div className="text">
                     <div>STYLE 2</div>

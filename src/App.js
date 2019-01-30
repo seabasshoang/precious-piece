@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import ImgSlider from './components/ImgSlider/ImgSlider';
 import Footer from './components/Footer/Footer';
 import Section2 from './components/Section2/Section2';
-//import SunglassesPage from './components/SunglassesPage/SunglassesPage';
+import SunglassesPage from './components/SunglassesPage/SunglassesPage';
 import './App.css';
 
 class App extends Component {
@@ -20,6 +20,7 @@ class App extends Component {
             <div className="TitleBottom"></div>
             <ImgSlider/>
           <Section2/>
+          <SunglassesPage/>
           <Footer/>
         </div>
         

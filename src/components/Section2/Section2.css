@@ -32,17 +32,23 @@ button:hover {
     background-color: black;
 }
 
-.image {
+.image1 , .image2 {
     
     overflow: hidden;
     background-size: cover;
     width: 650px;
     height: 650px;
     background-image: url("https://images.pexels.com/photos/1781983/pexels-photo-1781983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") ;
+    transition: 0.5s ease;
 }
 
-.image:hover {
+.image1:hover {
     background-image: url("https://images.pexels.com/photos/1436970/pexels-photo-1436970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+.image2:hover {
+    opacity: 0.5;
+    transition: 0.5s ease;
 }
 
 @media only screen and (max-width: 768px) {
